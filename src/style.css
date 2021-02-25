@@ -1,0 +1,120 @@
+body{
+  background-image:url("Hermoso.jpg");
+  background-attachment: fixed;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position: center;
+  min-height: 100vh;
+}
+
+h1 {
+  position: absolute;
+  height: 51px;
+  left: 27px;
+  right: 28px;
+  top: 54px;
+  
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 37px;
+  text-align: center;
+  color: #000000;
+
+}
+h2{
+  position: absolute;
+  width: 176px;
+  height: 22px;
+  left: 25px;
+  top: 129px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+
+}
+
+#escalones{
+
+  position: absolute;
+  width: 106px;
+  height: 49px;
+  left: 196px;
+  top: 116px;
+  
+  position: absolute;
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+textarea{
+
+  position:absolute;  
+  width: 309px;
+  height: 234px;
+  left: 22px;
+  top: 191px;
+
+  background: rgba(0, 0, 0, 0.25);
+  mix-blend-mode: normal;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);  
+
+}
+
+#correr{
+
+  position: absolute;
+  width: 107px;
+  height: 42px;
+  left: 22px;
+  top: 504px;
+  
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+#caminar{
+
+  position: absolute;
+  width: 117px;
+  height: 42px;
+  left: 215px;
+  top: 505px;
+
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+a{
+  position: absolute;
+  width: 42px;
+  height: 45px;
+  left: 298px;
+  top: 565px;
+
+  background: url(ww.png);
+}
+
+
+
+
